@@ -15,6 +15,8 @@ namespace ClassTask_2
             for (int i = 1; i < parsedstring.Length; i++)
             {
                 Console.WriteLine($"{i}. {parsedstring[i]}");
+
+                Console.WriteLine("New String for Git");
             }
 
             Console.ReadLine();
