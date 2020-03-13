@@ -28,7 +28,6 @@ class Program
 
         public int[] ReturnArray()
         {
-            Console.WriteLine("Возврат");
             return VS;
         }
     }
